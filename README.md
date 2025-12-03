@@ -5,7 +5,7 @@ The most honest donut in human history | Найчесніший пончик в 
 ## 📄 Read in your language:
 - [🇺🇦 Українська версія](README-UA.md)
 - [🇬🇧 English version](README-EN.md)
-- [🇺🇦 PUHLYA_MONEYFEST](new_money_manifest.md)
+- [GB WHITEPAPER](whitepaper_from_ChatGpt.md)
 
 ## 🎯 What is this?
 A transparent crowdfunding business model for food businesses where customers become investors.
